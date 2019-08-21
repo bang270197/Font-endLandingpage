@@ -1,0 +1,152 @@
+
+body{
+    margin: 0px;
+}
+#navbarDropdown:hover{
+    border-bottom: 2px solid black;
+}
+#navbarDropdown1:hover{
+    border-bottom: 2px solid black;
+}
+#navbarDropdown2:hover{
+    border-bottom: 2px solid black;
+}
+
+#navbarDropdown3:hover{
+    border-bottom: 2px solid black;
+}
+
+#navbarDropdown4:hover{
+    border-bottom: 2px solid black;
+}
+
+#navbarDropdown5:hover{
+    border-bottom: 2px solid black;
+}
+#wheretobuy:hover{
+    border-bottom: 2px solid black;
+}
+#title1{
+    font-weight: bold;
+    border-bottom: 2px solid black;
+    border-bottom-color: #50c3ff;
+    margin-left: 50px;
+    margin-top: 25px;
+    text-decoration: none;
+}
+.nav.justify-content-center{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.nav-item.ii{
+    padding-left: 35px;
+}
+.col-3.buy{
+    padding-top: 25px;
+}
+.carousel.slide.carousel-fade{
+   border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    border-color: gray;
+}
+#carouselExampleInterval{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+#hinh1{
+    background: #7A5052;
+}
+#hinh2{
+    background: #303135;
+}
+#hinh3{
+    background: #DDDEE0;
+}
+#hinh4{
+    background: #454A4E;
+}
+#hinh5{
+    background: #DDDEE0;
+}
+
+#noidung1{
+   padding-top: 30px;
+    text-align: center;
+}
+#noidung1 a{
+    color: white;
+}
+#noidung2 a{
+    color: white;
+}
+#noidung3 a{
+    color: white;
+}
+#noidung4 a{
+    color: white;
+}
+#noidung5 a{
+    color: white;
+}
+#noidung2{
+    padding-top: 30px;
+    text-align: center;
+}
+#noidung3{
+    padding-top: 30px;
+    text-align: center;
+}
+#noidung4{
+    padding-top: 30px;
+    text-align: center;
+}
+#noidung5{
+    padding-top: 30px;
+    text-align: center;
+}
+#nd1{
+    font-size: 30px;
+    color: white;
+}
+#nd3{
+    font-size: 30px;
+    color: white;
+}
+#nd5{
+    font-size: 30px;
+    color: white;
+}
+#nd9{
+    font-size: 30px;
+    color: white;
+}
+#nd7{
+    font-size: 30px;
+    color: white;
+}
+#nd2{
+    color: white;
+    font-size: 20px;
+}
+#nd4{
+    color: white;
+    font-size: 20px;
+}
+#nd6{
+    color: white;
+    font-size: 20px;
+}
+#nd8{
+    color: white;
+    font-size: 20px;
+}
+#nd10{
+    color: white;
+    font-size: 20px;
+}
+#content1{
+    margin-top: 50px;
+    text-align: center;
+}
